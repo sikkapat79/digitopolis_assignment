@@ -1,0 +1,17 @@
+{
+  "name": "digitopolis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lb" : "node lb",
+    "compute" : "node compute",
+    "client" : "node client"
+  },
+  "author": "Sikkapat Sricheangsa <bank.s.sricheangsa@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dgt-net": "^1.1.1"
+  }
+}
