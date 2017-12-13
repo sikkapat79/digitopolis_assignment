@@ -1,9 +1,13 @@
-# By Testing this assignment >> You just have to run via #
+# To Testing this assignment
 
-npm run lb << to start load balancer >>
-npm run compute << to start load balancer >>
-npm run client << to start client >>
+*You just have to run via #
 
-* set INSTANCES To set number of compute instances *
+> npm run lb << to start load balancer >>
+
+> npm run compute << to start load balancer >>
+
+> npm run client << to start client >>
+
+* set INSTANCES environment To set number of compute instances *
 > Example ...
 > \# export INSTANCES=5 && npm run compute 
